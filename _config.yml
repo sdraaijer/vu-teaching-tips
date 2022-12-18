@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: vu-teaching-tips
+source: vu-teaching-tips/
 incremental: false
 highlighter: rouge
 gist:
