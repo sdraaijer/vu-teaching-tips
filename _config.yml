@@ -2,7 +2,7 @@ lsi: false
 safe: true
 source: [...]
 incremental: false
-remote_theme: pages-themes/hydra
+remote_theme: pages-themes/moonwalk
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 highlighter: rouge
