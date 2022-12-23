@@ -2,6 +2,7 @@ lsi: false
 safe: true
 source: [...]
 incremental: false
+theme: Hacker
 highlighter: rouge
 gist:
   noscript: false
