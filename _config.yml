@@ -2,7 +2,7 @@ lsi: false
 safe: true
 source: [...]
 incremental: false
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/hacker
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 highlighter: rouge
